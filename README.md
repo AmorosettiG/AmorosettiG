@@ -2,7 +2,7 @@
 <!---
 - 👀 🌱I’m interested in ...>--->
 
-- 👩🏻‍💻 I’m a [Physics of Data](http://physicsofdata.dfa.unipd.it/) Master student in Padua (Italy)
+- 👩🏻‍💻 I’m a [Physics of Data](http://physicsofdata.dfa.unipd.it/) Master student in Padua, Italy.
 <!---- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--->
 
