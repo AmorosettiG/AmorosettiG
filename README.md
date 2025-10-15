@@ -20,7 +20,7 @@ I hold a **Bachelor’s degree in Physics** from the *University of Toulouse*, w
 - **Design and implementation of quantum algorithms** on a real quantum processor, as part of my **Bachelor’s thesis** supervised by Prof. Elisa Ercolessi (*University of Bologna*).  
 - **Characterization of a deep learning approach for data recovery** in Soft X-Ray fusion plasma diagnostics for the RFX-mod experiment, during a post-bachelor internship supervised by Prof. Andrea Rigoni Garola at *Consorzio RFX*.
 
-All the code related to these projects is available on my profile !
+All the code related to these projects is available on my profile (and pinned just below) !
 
 
 
