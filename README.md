@@ -24,7 +24,7 @@ All the code related to these projects is available on my profile (and pinned ju
 
 
 
-✨ *More coming soon — stay tuned!*
+✨ *More coming soon — stay tuned !*
 
 
 <!---- 💞️ I’m looking to collaborate on ...
