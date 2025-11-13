@@ -9,6 +9,15 @@
 - I'm a **[Physics of Data](http://physicsofdata.dfa.unipd.it/)** Master's student at the University of Padua, Italy. 
 
   - Soon, I’ll be sharing here all my labs, assignments, and projects completed during the program !
+    
+  - Laboratory of Computational Physics
+      - Module A : [Exercises](https://github.com/AmorosettiG/LCP_A) and [project](https://github.com/AmorosettiG/LCP_A-Project)
+      - Module B : [Assignments](https://github.com/AmorosettiG/LCP_B) and [project]()
+  - Quantum Information and Computing : [Assignments](https://github.com/AmorosettiG/QIC)
+  - Management and Analysis of Physical Dataset
+      - Module A
+      - Module B : [Exercises](https://github.com/AmorosettiG/MAPD_B) and [project](https://github.com/AmorosettiG/MAPD_B-Project)
+  - Modern Computing for Physics : [Exercises](https://github.com/AmorosettiG/MCP)
 
 
 
